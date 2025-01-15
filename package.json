@@ -1,0 +1,14 @@
+{
+    "name": "hayvanat_bahcesi",
+    "version": "1.0.0",
+    "description": "Hayvanat Bahçesi projesi: farklı hayvan türlerinin sınıflarını ve davranışlarını modelleyen bir uygulama.",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": ["hayvanat-bahcesi", "javascript", "oop", "modeller"],
+    "author": "Yağmur Şimşek",
+    "license": "MIT"
+  }
+  
